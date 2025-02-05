@@ -3,5 +3,5 @@
 
 import { BrowserWindow } from './browserWindow';
 const browserWindow = new BrowserWindow('container-id');
-browserWindow.loadURL('http://example.com');
+browserWindow.loadURL('http://google.com');
 browserWindow.run();
